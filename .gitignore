@@ -3,6 +3,7 @@ _theme_packages/*
 
 Thumbs.db
 .DS_Store
+._.DS_Store
 
 !.gitkeep
 
