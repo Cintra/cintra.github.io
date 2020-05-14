@@ -3,7 +3,6 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
 
 host: 192.168.1.13
 # Themes are encouraged to use these universal variables 
